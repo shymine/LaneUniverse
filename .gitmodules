@@ -1,0 +1,3 @@
+[submodule "lane-server"]
+	path = lane-server
+	url = https://github.com/shymine/lane-server.git
